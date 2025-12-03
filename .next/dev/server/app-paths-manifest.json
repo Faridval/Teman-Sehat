@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js",
+  "/home/page": "app/home/page.js",
+  "/analisis-kulit/page": "app/analisis-kulit/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/profile/page": "app/profile/page.js"
+}
